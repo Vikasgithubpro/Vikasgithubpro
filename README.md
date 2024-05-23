@@ -10,6 +10,8 @@
 - ⚡ Fun fact **I am funny😜**
 
 
+
+<br>
 # 💫 About Me:
 ---<br><br>Hi 👋, I'm Vikas Singh. I'm Pursuing Bachelor of Technology at Vivekananda Institute of Professional Studies GGSIPU, New Delhi. I have completed multiple courses and certifications in C++, Python, Java. and I am an active participant in online coding platforms such as LeetCode and HackerRank.. My skill set includes:<br><br>**Frontend:**<br>- HTML<br>- CSS<br>- JavaScript<br><br>**Backend:**<br>- Python (Django)<br>- Java<br>- C<br>- C++<br><br>This diverse skill set equips me to develop robust and efficient web applications, ensuring seamless user experiences and optimized backend functionalities. I am eager to leverage my expertise to contribute effectively to challenging projects and further advance my career in software development.
 
