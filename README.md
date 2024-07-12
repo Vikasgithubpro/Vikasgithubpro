@@ -3,13 +3,13 @@
 
 <img align="right" alt="coding" widht="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasgithubpro&label=Profile%20views&color=0e75b6&style=flat" alt="vikasgithubpro" /> </p>
 
 - 📫 How to reach me **vikas372391@gmail.com**
 
 - ⚡ Fun fact **I am funny😜**
-
-<br>
 
 # 💫 About Me:
 ---<br><br>Hi 👋, I'm Vikas Singh. I'm Pursuing Bachelor of Technology at Vivekananda Institute of Professional Studies GGSIPU, New Delhi. I have completed multiple courses and certifications in C++, Python, Java. and I am an active participant in online coding platforms such as LeetCode and HackerRank.. My skill set includes:<br><br>**Frontend:**<br>- HTML<br>- CSS<br>- JavaScript<br><br>**Backend:**<br>- Python (Django)<br>- Java<br>- C<br>- C++<br><br>This diverse skill set equips me to develop robust and efficient web applications, ensuring seamless user experiences and optimized backend functionalities. I am eager to leverage my expertise to contribute effectively to challenging projects and further advance my career in software development.
