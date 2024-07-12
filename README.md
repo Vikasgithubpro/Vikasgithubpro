@@ -1,4 +1,5 @@
 <img align="right" alt="coding" widht="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<br><br>
 
 <h1 align="center">Hi 👋, I'm Vikas Singh</h1>
 
@@ -11,7 +12,7 @@
 - ⚡ Fun fact **I am funny😜**
 
 # 💫 About Me:
-<br><br>Hi 👋, I'm Vikas Singh. I'm Pursuing Bachelor of Technology at Vivekananda Institute of Professional Studies GGSIPU, New Delhi. I have completed multiple courses and certifications in C++, Python, Java. and I am an active participant in online coding platforms such as LeetCode and HackerRank.. My skill set includes:<br><br>**Frontend:**<br>- HTML<br>- CSS<br>- JavaScript<br><br>**Backend:**<br>- Python (Django)<br>- Java<br>- C<br>- C++<br><br>This diverse skill set equips me to develop robust and efficient web applications, ensuring seamless user experiences and optimized backend functionalities. I am eager to leverage my expertise to contribute effectively to challenging projects and further advance my career in software development.
+<br>Hi 👋, I'm Vikas Singh. I'm Pursuing Bachelor of Technology at Vivekananda Institute of Professional Studies GGSIPU, New Delhi. I have completed multiple courses and certifications in C++, Python, Java. and I am an active participant in online coding platforms such as LeetCode and HackerRank.. My skill set includes:<br><br>**Frontend:**<br>- HTML<br>- CSS<br>- JavaScript<br><br>**Backend:**<br>- Python (Django)<br>- Java<br>- C<br>- C++<br><br>This diverse skill set equips me to develop robust and efficient web applications, ensuring seamless user experiences and optimized backend functionalities. I am eager to leverage my expertise to contribute effectively to challenging projects and further advance my career in software development.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071354751524&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vikas_coding_tips?igsh=YjRlaGlnYWEyOW9q) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-singh-b4b4ab1aa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) 
